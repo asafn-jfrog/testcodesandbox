@@ -1,0 +1,12 @@
+ require("jf-jquery-ui/themes/smoothness/jquery-ui.css");
+ require("jQuery-contextMenu/dist/jquery.contextMenu.min.css");
+ require("bootstrap/dist/css/bootstrap.css");
+ require("jf-angular-ui-grid/ui-grid.css");
+ require("jf-animate-css/animate.css");
+ require("codemirror/lib/codemirror.css");
+ require("ui-select/dist/select.css");
+ require("jf-tooltipster/css/tooltipster.css");
+ require("codemirror/addon/dialog/dialog.css");
+ require("eonasdan-bootstrap-datetimepicker/build/css/bootstrap-datetimepicker.css");
+ require("jstree/dist/themes/default/style.css");
+ console.log("vendor-styles");
